@@ -1,3 +1,5 @@
-
+<<<<<<< HEAD
 from master
+=======
 adding line from feature1 branch
+>>>>>>> feature1
