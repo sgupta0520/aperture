@@ -1,2 +1,1 @@
-hello world. we will merge with master branch soon. this is branch feature1
 this line came from feature2 branch
