@@ -1,3 +1,7 @@
 
+
 from master
 adding line from feature1 branch
+
+this line came from feature2 branch
+
